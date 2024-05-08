@@ -1,0 +1,10 @@
+pip install langchain
+pip install pypdf
+pip install docarray
+pip install spacy
+pip install rake_nltk
+pip install jq
+pip install streamlit
+
+
+

@@ -1,0 +1,55 @@
+Question: Name the hostels in IIT Guwahati?
+Answer: Based on the provided documents, the following are the hostels mentioned in IIT Guwahati:
+
+1. Brahmaputra Hostel
+2. Khoka Hostel
+3. Lohit Hostel
+4. Core1 Hostel
+5. Core2 Hostel
+6. Core3 Hostel
+7. Core4 Hostel
+
+Therefore, the answer to your question is: Brahmaputra, Khoka, Lohit, Core1, Core2, Core3, and Core4 are the hostels in IIT Guwahati.
+
+
+
+Question: what are the clubs for overall development of students in iitg?
+Answer: Based on the provided documents, I can answer your question as follows:
+
+There are several clubs and societies available at IIT Guwahati that cater to various interests and promote overall student development. Some of these clubs include:
+
+1. Debsoc - a debating club that provides a platform for students to hone their argumentation, persuasion, and critical thinking skills.
+2. Public Speaking Club - a club that focuses on improving students' public speaking abilities through various activities and workshops.
+3. Cultural Events Club - a club that organizes cultural events, such as music and dance performances, to promote diversity and inclusivity on campus.
+4. Entrepreneurship Cell - a club that fosters an entrepreneurial mindset among students by providing resources and support for start-ups and business ventures.
+5. Technical Events Club - a club that organizes technical events, such as hackathons, programming competitions, and robotics events, to promote innovation and technical skills.
+6. Sports and Fitness Club - a club that promotes physical fitness and well-being through various sports and fitness activities.
+7. Art and Design Club - a club that provides a platform for students to explore their creative side through various art forms, such as painting, drawing, and sculpture.
+8. Book and Literature Club - a club that promotes reading and literature among students by organizing book discussions, literary events, and workshops.
+9. Community Service Club - a club that organizes community service activities, such as cleanliness drives, tree planting, and blood donation camps, to promote social responsibility and civic engagement.
+10. Music and Dance Club - a club that provides a platform for students to explore their musical and dance talents through various performances and workshops.
+
+These clubs offer a diverse range of activities and opportunities for students to develop their skills and interests outside of academic studies, while also fostering a sense of community and inclusivity on campus.
+
+
+
+Question: Name the lakes present in iitg?
+Answer: Based on the provided documents, there is no mention of any lakes present in IIT Guwahati.
+
+
+Question: Name the competitions held in iitg?
+Answer: Based on the provided documents, the following competitions are held in IIT Guwahati:
+
+1. Indian Collegiate Programming Contest (ICPC)
+2. Debsoc (a debating and public speaking competition)
+3. Initial selection rounds for ICPC (orientation sessions and kickstarting journey in competitive programming)
+
+
+
+Question: which hostel boy committed suicide in iitg?
+Answer: Based on the provided documents, the answer to the question "Which hostel boy committed suicide in IITG?" is:
+
+Lohit.
+
+According to the document "IITg_dataset.pdf", page 1, Lohit was a first-year student from CSE who committed suicide in Brahmaputra, which underscored the urgent need for enhanced mental health support within the campus community.
+
