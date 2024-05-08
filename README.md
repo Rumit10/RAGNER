@@ -1,3 +1,6 @@
+RAGNER - Improving LLMs performance using RAG and NER.
+
+
 https://www.youtube.com/watch?v=UJNlPA83IJY&t=985s
 
 To run the code install the dependencies given in requirements.txt	
