@@ -18,7 +18,7 @@ To run the code as is,
 7. 'cd ..'
 8. now run the Final.ipynb file to produce the shown results.
 
-To access through the Frondend, 
+To access through the Frontend, 
 run
 
 'streamlit run app.py'
